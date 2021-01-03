@@ -1,7 +1,11 @@
 const mongoose = require('mongoose')
+require('mongoose-function')(mongoose)
 const Schema = mongoose.Schema
-
 const JobSchema = new Schema({
+    status: {
+        type: String,
+        default: "scheduled"
+    },
     to: {
         type: String,
         required: true
