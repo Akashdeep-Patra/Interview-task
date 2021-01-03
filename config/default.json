@@ -1,6 +1,7 @@
 {
-  "mongoURI": "mongodb+srv://mr_mornin_star:0FCrmtnteBInlgvN@picstore-kgp9s.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "myJWTsecretToken",
-  "githubClientId": "aca380c758d0e47f6912",
-  "githubSecret": "6c4bf26e15b7286cc87de2dcdb0ed64f6dfa3b76"
+    "mongoURI": "mongodb+srv://akashdeep:TIX4TTO24pGOcZbT@picstore-kgp9s.mongodb.net/project?retryWrites=true&w=majority",
+    "jwtSecret": "myJWTsecretToken",
+    "githubClientId": "aca380c758d0e47f6912",
+    "githubSecret": "6c4bf26e15b7286cc87de2dcdb0ed64f6dfa3b76",
+    "sendGridApiKey": "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"
 }
